@@ -1,5 +1,5 @@
-# Singapore (Core Java 9.0)
-Code Samples for the Blog Article [Java SE 9... What's New? (Code Samples-01/02)] 
+# London (Core Java 9.0)
+Code Samples for the Blog Article [Java SE 9... What's New? (Code Samples-02/02)] 
 <br>
 
 MIT License
@@ -15,10 +15,10 @@ https://github.com/sumithpuri
 	
 |Project Codename|Singapore|
 |--|--|
-| Blog Post URL | http://www.techilashots.com/2018/09/java-se-9-whats-new-code-samples-0102.html |
-|Blog Short URL	|https://goo.gl/dpxjEU |
-|Package Prefix|me.sumithpuri.github.singapore |
-|GitHub URL|https://github.com/sumithpuri/skp-code-marathon-singapore |
+| Blog Post URL | http://www.techilashots.com/2018/09/java-se-9-whats-new-code-samples-0202.html |
+|Blog Short URL	|https://goo.gl/r1LQda |
+|Package Prefix|me.sumithpuri.github.london |
+|GitHub URL|https://github.com/sumithpuri/skp-code-marathon-london |
 |Contact E-Mail  |code@sumithpuri.me|
 |Contact Number|+91 9591497974 (WhatsApp, Viber)|
 

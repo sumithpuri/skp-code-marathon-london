@@ -10,7 +10,7 @@ https://github.com/sumithpuri
 
 <hr>
 
-<div align="center">
+<div align="left">
 	
 |Project Codename|London|
 |--|--|
